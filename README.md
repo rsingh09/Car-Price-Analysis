@@ -23,7 +23,7 @@ Based on these findings, the following recommendations are made for the used car
 5. Utilize advanced modeling techniques to capture non-linear relationships and better predict car prices.
 
 ## Link to Notebook
-[Used Car Price Analysis Notebook](path/to/notebook.ipynb)
+[Used Car Price Analysis Notebook](car-price-analysis.ipynb)
 
 ## Project Organization
 The project is organized into the following sections:
@@ -40,7 +40,7 @@ To use this notebook, follow these steps:
 3. Run the notebook cells in sequential order to reproduce the analysis.
 
 ## Directory and File Information
-- **notebook.ipynb:** Jupyter notebook containing the full analysis.
+- **car-price-analysis.ipynb:** Jupyter notebook containing the full analysis.
 - **vehicles.csv:** Dataset file used for the analysis.
 - **images/**: Directory containing visualizations generated during the analysis.
 
